@@ -32,6 +32,10 @@ nav ul li a:hover {
     opacity: .8;
 }
 
+h1 {
+    text-wrap: pretty;    
+}
+
 main {
     display: flex;
     justify-content: center;
